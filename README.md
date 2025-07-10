@@ -26,9 +26,6 @@ Not a match. Try again.
 ...
 Congratulations! You completed the game in 18 tries.
 
-markdown
-Copy
-Edit
 
 ## 💻 How to Run
 
@@ -46,19 +43,11 @@ Edit
 
 g++ main.cpp -o MemoryGame.exe
 
-markdown
-Copy
-Edit
 
 4. Run the game:
 
 MemoryGame.exe
 
-pgsql
-Copy
-Edit
-
-> Note: `windows.h` is used for setting cursor position. This will only work on Windows terminals.
 
 ## 📁 Project Structure
 
@@ -66,13 +55,10 @@ Edit
 ┣ 📄 main.cpp
 ┗ 📄 README.md
 
-yaml
-Copy
-Edit
 
 ## ✍️ Credits
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Jatin Sharma 
 Based on the **ANSI C Game Projects** logic, implemented using C++.
 
 ## 📜 License
